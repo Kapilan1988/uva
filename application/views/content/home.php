@@ -4,7 +4,7 @@
     <div id="slider-revolution">
         <ul>
             <li data-transition="fade">
-                <img src="<?= base_url() ?>resources/images/slider/img-5.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
+                <img src="<?= base_url() ?>resources/images/slider/img-4.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
 
                 <div class="tp-caption sft fadeout slider-caption-sub slider-caption-1" data-x="center" data-y="100" data-speed="700" data-start="1500" data-easing="easeOutBack">
                  <img src="<?= base_url() ?>resources/images/slider/hom1-slide1.png" alt="icons">
@@ -16,11 +16,10 @@
 
                 <div class="tp-caption sfb fadeout slider-caption slider-caption-sub-1" data-x="center" data-y="280" data-speed="700" data-easing="easeOutBack"  data-start="2000">THE LOTUS HOTEL</div>
 
-                <a href="#" class="tp-caption sfb fadeout awe-btn awe-btn-12 awe-btn-slider" data-x="center" data-y="380" data-easing="easeOutBack" data-speed="700" data-start="2200">VIEW NOW</a>
             </li>
 
             <li data-transition="fade">
-                <img src="<?php base_url() ?>resources/images/slider/img-4.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
+                <img src="<?= base_url() ?>resources/images/slider/img-4.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
 
                 <div class="tp-caption sft fadeout" data-x="center" data-y="195" data-speed="700" data-start="1300" data-easing="easeOutBack">
                   <img src="<?php base_url() ?>resources/images/icon-slider-1.png" alt="">
@@ -31,7 +30,7 @@
                 </div>
 
                 <div class="tp-caption sfb fadeout slider-caption slider-caption-3" data-x="center" data-y="260" data-speed="700" data-easing="easeOutBack"  data-start="2000">
-                    UNIQUE 80%
+                    UNIQUE 70%
                 </div>
 
                 <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="365" data-easing="easeOutBack" data-speed="700" data-start="2200">JUST LIKE YOU</div>
@@ -409,158 +408,6 @@
 </div>
 <!-- END / HOME GUEST BOOK -->
 
-<!-- HOME NEW -->
-<section class="section-event-news bg-white">
-    <div class="container">
-
-        <div class="event-news">
-            <div class="row">
-
-                <!-- EVENT -->
-                <div class="col-md-6">
-                    <div class="event">
-                        <h2 class="heading">EVENT &amp; DEAL</h2>
-                        <span class="box-border w350"></span>
-
-                        <div class="row">
-
-                            <!-- ITEM -->
-                            <div class="col-xs-12 col-sm-12">
-                                <div class="event-slide owl-single">
-
-                                    <div class="event-item">
-                                        <div class="img hover-zoom">
-                                            <a href="#">
-                                                <img src="<?php base_url() ?>resources/images/home/eventdeal/img-1.jpg" alt="">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="event-item">
-                                        <div class="img hover-zoom">
-                                            <a href="#">
-                                                <img src="<?php base_url() ?>resources/images/home/eventdeal/img-1.jpg" alt="">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- END / ITEM -->
-
-                            <!-- ITEM -->
-                            <div class="col-xs-6">
-                                <div class="event-item">
-                                    <div class="img hover-zoom">
-                                        <a href="#">
-                                            <img src="<?php base_url() ?>resources/images/home/eventdeal/img-2.jpg" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="text">
-                                        <div class="text-cn">
-                                            <h2>SAVE THE DATE</h2>
-                                            <span>BECCA &amp; ROBERT</span>
-                                            <a href="#" class="awe-btn awe-btn-12">VIEW MORE</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- END / ITEM -->
-
-                            <!-- ITEM -->
-                            <div class="col-xs-6">
-                                <div class="event-item">
-                                    <div class="img hover-zoom">
-                                        <a href="#">
-                                            <img src="<?php base_url() ?>resources/images/home/eventdeal/img-2.jpg" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="text">
-                                        <div class="text-cn">
-                                            <h2>GO ON BEACH. lotus </h2>
-                                            <a href="#" class="awe-btn awe-btn-12">VIEW MORE</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- END / ITEM -->
-
-                        </div>
-                    </div>
-                </div>
-                <!-- END / EVENT -->
-
-                <!-- NEWS -->
-                <div class="col-md-6">
-                    <div class="news">
-                        <h2 class="heading">NEWS</h2>
-                        <span class="box-border w350 space-5"></span>
-
-                        <div class="row">
-
-                            <!-- ITEM -->
-                            <div class="col-md-12">
-                                <div class="news-item">
-                                    <div class="img">
-                                        <a href="#"><img src="<?php base_url() ?>resources/images/home/lotusnews/img-1.jpg" alt=""></a>
-                                    </div>
-                                    <div class="text">
-                                        <span class="date">21 / March</span>
-                                        <h2><a href="#">UPDATE MENU FOOD IN lotus HOTEL</a></h2>
-                                        <a href="" class="read-more">[ Read More ]</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- END / ITEM -->
-
-                            <!-- ITEM -->
-                            <div class="col-md-12">
-                                <div class="news-item">
-                                    <div class="img">
-                                        <a href="#"><img src="<?php base_url() ?>resources/images/home/lotusnews/img-1.jpg" alt=""></a>
-                                    </div>
-                                    <div class="text">
-                                        <span class="date">8 / March</span>
-                                        <h2><a href="#">WEDDING DAY JONATHA &amp; JESSICA</a></h2>
-                                        <a href="" class="read-more">[ Read More ]</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- END / ITEM -->
-
-                            <!-- ITEM -->
-                            <div class="col-md-12">
-                                <div class="news-item">
-                                    <div class="img">
-                                        <a href="#"><img src="<?php base_url() ?>resources/images/home/lotusnews/img-1.jpg" alt=""></a>
-                                    </div>
-                                    <div class="text">
-                                        <span class="date">16 / February</span>
-                                        <h2><a href="#">THE BEST WEDDING GUIDE 2015</a></h2>
-                                        <a href="" class="read-more">[ Read More ]</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- END / ITEM -->
-
-                        </div>
-
-                        <a href="#" class="awe-btn awe-btn-default">VIEW MORE</a>
-
-                    </div>
-
-                </div>
-                <!-- END / NEWS -->
-
-            </div>
-
-            <div class="hr"></div>
-
-        </div>
-
-    </div>
-</section>
-<!-- END / HOME NEW -->
 
 <!-- GALLERY -->
 <section class="section-gallery bg-white">
