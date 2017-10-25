@@ -19,8 +19,8 @@
                 <div class="container">
                     <div class="header_left float-left">
                         <span><i class="lotus-icon-cloud"></i> 18 °C</span>
-                        <span><i class="lotus-icon-location"></i> 225 Beach Street, Australian</span>
-                        <span><i class="lotus-icon-phone"></i> 1-548-854-8898</span>
+                        <span><i class="lotus-icon-location"></i> 225 Beach Street, Srilanka.</span>
+                        <span><i class="lotus-icon-phone"></i>+94-11-000000</span>
                     </div>
                     <div class="header_right float-right">
 
@@ -41,7 +41,7 @@
                 <div class="container">
                     <!-- HEADER LOGO -->
                     <div class="header_logo">
-                        <a href="#"><img src="<?php base_url() ?>resources/images/logo-header.png" alt=""></a>
+                        <a href="<?php echo site_url() ?>"><img src="<?php echo site_url() ?>resources/images/logo-header.png" alt=""></a>
                     </div>
                     <!-- END / HEADER LOGO -->
 
@@ -49,28 +49,28 @@
                     <nav class="header_menu">
                         <ul class="menu">
                             <li class="<?PHP if($active=="home") { ?> current-menu-item <?php } ?>">
-                                <a href="<?php base_url() ?>">Home </a>
+                                <a href="<?php echo site_url()?>">Home </a>
 
                             </li>
                             <li class="<?PHP if($active=="about") { ?> current-menu-item <?php } ?>">
-                              <a href="<?php base_url() ?>index/about">About</a></li>
+                              <a href="<?php echo site_url('index/about') ?>">About</a></li>
 
                             <li class="<?php if($active=="room") {?> current-menu-item <?php }?> ">
-                                <a href="<?php base_url() ?>index/room">Room </a>
+                                <a href="<?php echo site_url('index/room') ?>">Room </a>
 
                             </li>
                             <li class="<?php if($active=="restaurant"){?> current-menu-item<?php }?>">
-                                <a href="<?php base_url()?>index/restaurant">Restaurant </a>
+                                <a href="<?php echo site_url('index/restaurant') ?>">Restaurant </a>
 
                             </li>
 
                             <li class="<?php if($active=="gallery"){?>current-menu-item<?php } ?>">
-                                <a href="<?php base_url()?>index/gallery">Gallery </a>
+                                <a href="<?php echo site_url('index/gallery')?>">Gallery </a>
 
                             </li>
 
                             <li class="<?php if($active=="contact"){?>current-menu-item<?php }?>">
-                              <a href="<?php base_url()?>index/contact">Contact</a></li>
+                              <a href="<?php echo site_url('index/contact')?>">Contact</a></li>
                         </ul>
                     </nav>
                     <!-- END / HEADER MENU -->

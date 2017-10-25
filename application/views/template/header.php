@@ -2,18 +2,30 @@
 <head>
     <meta charset="utf-8">
     <!-- TITLE -->
-    <title>UVA Heart</title>
+    <title>
+
+      <?php
+      if(isset($title))
+      {
+        echo $title;
+      }
+      else
+       {
+        echo 'UVA Heart';
+        }
+      ?>
+    </title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="shortcut icon" href="<?= base_url() ?>resources/images/favicon.png"/>
+    <link rel="shortcut icon" href="<?= site_url() ?>resources/images/favicon.png"/>
 
     <!-- GOOGLE FONT -->
     <link href='http://fonts.googleapis.com/css?family=Hind:400,300,500,600%7cMontserrat:400,700' rel='stylesheet' type='text/css'>
 
     <!-- CSS LIBRARY -->
-    <link rel="stylesheet" type="text/css" href="<?= base_url() ?>resources/css/lib/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="<?= site_url() ?>resources/css/lib/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>resources/css/lib/font-lotusicon.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>resources/css/lib/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>resources/css/lib/owl.carousel.css">

@@ -41,7 +41,7 @@
                                 <!-- ITEM -->
                                 <div class="location-item" data-location="39.0926986,-94.5747324">
                                     <div class="img">
-                                        <img src="<?php base_url() ?>resources/images/contact/img-1.jpg" alt="">
+                                        <img src="<?php echo site_url() ?>resources/images/contact/img-1.jpg" alt="">
                                         <i class="fa  fa-map-marker"></i>
                                     </div>
                                     <div class="text">
@@ -57,7 +57,7 @@
                                 <!-- ITEM -->
                                 <div class="location-item" data-location="39.0912284,-94.5743515">
                                     <div class="img">
-                                        <img src="<?php base_url() ?>resources/images/contact/img-2.jpg" alt="">
+                                        <img src="<?php echo site_url() ?>resources/images/contact/img-2.jpg" alt="">
                                         <i class="fa  fa-map-marker"></i>
                                     </div>
                                     <div class="text">

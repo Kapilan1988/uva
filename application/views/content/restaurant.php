@@ -37,7 +37,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -57,7 +57,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -77,7 +77,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -98,7 +98,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -119,7 +119,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -140,7 +140,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -182,7 +182,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -202,7 +202,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -222,7 +222,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -243,7 +243,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -264,7 +264,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -285,7 +285,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -327,7 +327,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -347,7 +347,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -367,7 +367,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -388,7 +388,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -409,7 +409,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -430,7 +430,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -472,7 +472,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -492,7 +492,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
                             </div>
 
                             <div class="text">
@@ -512,7 +512,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -533,7 +533,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -554,7 +554,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 
@@ -575,7 +575,7 @@
                         <div class="restaurant_item lager-thumbs">
 
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
+                                <a href="#"><img src="<?php echo site_url() ?>resources/images/restaurants/img-1.jpg" alt=""></a>
 
                             </div>
 

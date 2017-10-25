@@ -24,8 +24,8 @@
             <div class="about-item">
 
                 <div class="img owl-single">
-                    <img src="<?php base_url() ?>resources/images/about/img-1.jpg" alt="">
-                    
+                    <img src="<?php echo site_url() ?>resources/images/about/img-1.jpg" alt="">
+
                 </div>
 
                 <div class="text">
@@ -43,7 +43,7 @@
             <div class="about-item about-right">
 
                 <div class="img">
-                    <img src="<?php base_url() ?>resources/images/about/img-1.jpg" alt="">
+                    <img src="<?php echo site_url() ?>resources/images/about/img-1.jpg" alt="">
                 </div>
 
                 <div class="text">

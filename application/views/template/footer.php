@@ -48,7 +48,7 @@
                     <div class="widget widget_logo">
                         <div class="widget-logo">
                             <div class="img">
-                                <a href="#"><img src="<?php base_url() ?>resources/images/logo-footer.png" alt=""></a>
+                                <a href="<?php echo site_url() ?>echo"><img src="<?php echo site_url() ?>resources/images/logo-footer.png" alt=""></a>
                             </div>
                             <div class="text">
                                 <p><i class="lotus-icon-location"></i> 225 Beach Street, Australian</p>
@@ -88,7 +88,7 @@
                         <h4 class="widget-title">Tripadvisor</h4>
                         <div class="tripadvisor">
                             <p>Now with hotel reviews by</p>
-                            <img src="<?php base_url() ?>resources/images/tripadvisor.png" alt="">
+                            <img src="<?php echo site_url() ?>resources/images/tripadvisor.png" alt="">
                             <span class="tripadvisor-circle">
                                 <i></i>
                                 <i></i>
@@ -109,7 +109,7 @@
     <!-- FOOTER BOTTOM -->
     <div class="footer_bottom">
         <div class="container">
-            <p>&copy; 2016 Lotus Hotel All rights reserved.</p>
+            <p>&copy; <?= date('Y') ?> UVA Heart Hotel All rights reserved.</p>
         </div>
     </div>
     <!-- END / FOOTER BOTTOM -->

@@ -14,7 +14,7 @@
                  WELCOME TO
                 </div>
 
-                <div class="tp-caption sfb fadeout slider-caption slider-caption-sub-1" data-x="center" data-y="280" data-speed="700" data-easing="easeOutBack"  data-start="2000">THE LOTUS HOTEL</div>
+                <div class="tp-caption sfb fadeout slider-caption slider-caption-sub-1" data-x="center" data-y="280" data-speed="700" data-easing="easeOutBack"  data-start="2000">THE UVA HEART</div>
 
             </li>
 
@@ -85,7 +85,7 @@
                 <div class="col-md-12">
                     <div class="accomd-modations-header">
                         <h2 class="heading">ROOMS & RATES</h2>
-                        <img src="<?php base_url() ?>resources/images/icon-accmod.png" alt="icon">
+                        <img src="<?php echo site_url() ?>resources/images/icon-accmod.png" alt="icon">
                         <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.</p>
                     </div>
                 </div>

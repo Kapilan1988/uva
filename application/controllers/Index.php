@@ -10,7 +10,7 @@ class index extends CI_Controller {
     }
 
     function index() {
-        $data['title'] = 'UVA';
+        $data['title'] = 'UVA Heart';
         $data['content'] = 'content/home';
         $data['active'] = 'home';
 
@@ -26,7 +26,7 @@ class index extends CI_Controller {
     }
 
     public function room() {
-        $data['title'] = 'Rooms';
+        $data['title'] = 'Our Rooms';
         $data['content'] = 'content/room';
         $data['active'] = 'room';
 
@@ -35,7 +35,7 @@ class index extends CI_Controller {
 
     public function restaurant()
     {
-      $data['title'] = 'Restaurant';
+      $data['title'] = 'Our Restaurant';
       $data['content'] = 'content/restaurant';
       $data['active'] = 'restaurant';
 
@@ -44,7 +44,7 @@ class index extends CI_Controller {
 
     public function gallery()
     {
-      $data['title'] = 'Gallery';
+      $data['title'] = 'Our Gallery';
       $data['content'] = 'content/gallery';
       $data['active'] = 'gallery';
 

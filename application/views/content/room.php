@@ -27,7 +27,7 @@
                                 <h2><a href="#">FAMILY ROOM</a></h2>
 
                                 <div class="img">
-                                    <a href="#"><img src="<?php base_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
+                                    <a href="#"><img src="<?php echo site_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
                                 </div>
 
                                 <div class="desc">
@@ -56,7 +56,7 @@
                                 <h2><a href="#">LUXURY ROOM</a></h2>
 
                                 <div class="img">
-                                    <a href="#"><img src="<?php base_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
+                                    <a href="#"><img src="<?php echo site_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
                                 </div>
 
                                 <div class="desc">
@@ -85,7 +85,7 @@
                                 <h2><a href="#">COUPLE ROOM</a></h2>
 
                                 <div class="img">
-                                    <a href="#"><img src="<?php base_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
+                                    <a href="#"><img src="<?php echo site_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
                                 </div>
 
                                 <div class="desc">
@@ -114,7 +114,7 @@
                                 <h2><a href="#">STANDARD ROOM</a></h2>
 
                                 <div class="img">
-                                    <a href="#"><img src="<?php base_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
+                                    <a href="#"><img src="<?php echo site_url() ?>resources/images/room/grid/img-1.jpg" alt=""></a>
                                 </div>
 
                                 <div class="desc">
