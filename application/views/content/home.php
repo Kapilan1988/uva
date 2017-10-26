@@ -63,6 +63,9 @@
                                 <option>1</option>
                                 <option>2</option>
                                 <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
                             </select>
 
                             <div class="vailability-submit">
@@ -318,7 +321,7 @@
                         <h2 class="heading">ABOUT US</h2>
                         <span class="box-border"></span>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source</p>
-                        <a href="#" class="awe-btn awe-btn-default">READ MORE</a>
+                        <a href="<?php echo site_url('index/about')?>" class="awe-btn awe-btn-default">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -560,7 +563,7 @@
             </div>
 
             <div class="our-gallery text-center">
-                <a href="#" class="awe-btn awe-btn-default">BROWSE OUR GALLERY</a>
+                <a href="<?php echo site_url('index/gallery')?>" class="awe-btn awe-btn-default">BROWSE OUR GALLERY</a>
             </div>
 
         </div>
